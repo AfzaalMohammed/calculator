@@ -4,7 +4,7 @@
   <groupId>com.snapshot.demo</groupId>
   <artifactId>Calculator</artifactId>
   <packaging>jar</packaging>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.0.1-SNAPSHOT</version>
   <name>Calculator JAR</name>
   <url>http://maven.apache.org</url>
   <dependencies>
